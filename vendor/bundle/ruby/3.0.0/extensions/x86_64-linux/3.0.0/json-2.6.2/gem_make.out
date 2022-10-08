@@ -1,0 +1,13 @@
+current directory: /home/alexis/Documents/Bitacora_LoRaWAN/vendor/bundle/ruby/3.0.0/gems/json-2.6.2/ext/json
+/usr/bin/ruby -I /usr/lib/ruby/3.0.0 extconf.rb
+creating Makefile
+
+current directory: /home/alexis/Documents/Bitacora_LoRaWAN/vendor/bundle/ruby/3.0.0/gems/json-2.6.2/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20221007-56169-tsdbfk sitelibdir\=./.gem.20221007-56169-tsdbfk clean
+
+current directory: /home/alexis/Documents/Bitacora_LoRaWAN/vendor/bundle/ruby/3.0.0/gems/json-2.6.2/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20221007-56169-tsdbfk sitelibdir\=./.gem.20221007-56169-tsdbfk
+make: Nothing to be done for 'all'.
+
+current directory: /home/alexis/Documents/Bitacora_LoRaWAN/vendor/bundle/ruby/3.0.0/gems/json-2.6.2/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20221007-56169-tsdbfk sitelibdir\=./.gem.20221007-56169-tsdbfk install
