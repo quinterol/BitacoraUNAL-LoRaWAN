@@ -1,0 +1,14 @@
+Solar Panel
+Maximum Power (Pmax)	80 Watts
+Voltage at Pmax (Vmp) 	18 Volts
+Current at Pmax (Imp) 	2.2 - 5.5 Amperes
+Open Circuit Voltage (Voc) 	21.6 Volts
+Short Circuit Current (Isc) 	2.3-6.5 Amperes
+
+Lithium Battery
+Nominal Output Voltage 12.6 Volts
+Nominal Output Current 	2 Amperes
+Capacity 	50 Ah (Ampere-hour)
+Charge Voltage 	18 Volts
+
+https://docs.rakwireless.com/Product-Categories/WisGate/RAK7249/Quickstart/#installation-guidett

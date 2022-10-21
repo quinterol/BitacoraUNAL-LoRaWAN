@@ -1,0 +1,34 @@
+# Accesorios para sobre tensiones
+
+## Proteccion de la antena, se recomienda en todas
+https://store.rakwireless.com/products/lightning-arrestor
+### Key Features
+Connector Type: N-type male to N-type female
+Impedance: 50 Ω
+Frequency range: 0-2700 MHz
+Power loss 0-2000 MHz: ≤ 0.2 dB
+Ingress protection: IP67
+Nominal discharge current In: 10 kA
+Maximum discharge current Imax: 20 kA
+Voltage protection Level Up: ≤ 1200 V
+
+## Protección antena GPS
+https://store.rakwireless.com/products/lightning-arrestor-for-gps-antenna
+### Key Features
+Connector Type: N-type male to N-type female
+Impedance: 50 Ω
+Frequency Range: 1500-1650 MHz
+Power Loss: ≤ 0.3 dB
+Ingress Protection: IP65 
+
+## Cable a tierra
+En la tienda parece muy normal, pero guardo el link por si algo.
+https://store.rakwireless.com/products/1-meter-lightning-arrestor-10-awg-grounding-wire
+### Product Description
+RAKwireless recommends a lightning arrestor to be installed on all the N-Type antenna terminals (LoRa, LTE, Wi-Fi and GPS).
+It is recommended to use a 10 AWG(Coppet)/8 AWG (Aluminum)/17 AWG (Copper-Clad Steel) or better grounding wire to connect the arrestor to the tower mounted LoRa antenna
+
+
+## Notas Extras
+Tambien iria un cable en la sección del chasis para la protección, mucha de esta información se puede corroborrar en el manual para proteccion de rayos.
+https://downloads.rakwireless.com/Accessories/Lightning-Arrestor/Lightning_Protection_Manual_V1.5.pdf
