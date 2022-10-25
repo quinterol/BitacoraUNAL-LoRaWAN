@@ -32,11 +32,11 @@ El instructivo muestra ademas un posible montaje, el cual puede consultarse en l
 
 El siguiente ejemplo de conexión muestra panel solar, batería y Gateway, conectando el cable del terminal de salida de la batería de litio al cable de alimentación de entrada del **RAK7249** Gateway como se muestra en la siguiente figura, tomada de la [documentación][S-FV].
 
-![conexion](/assets/images/FV/connection.jpg)
+![conexion](../assets/images/FV/connection.jpg)
 
 En este diagrama se puede observar y hacerse una idea del conector DC usado por la board **RAK7249**, el diagrama es una aproximación, esta por verificar.
 
-![conector](/assets/images/FV/1.png)
+![conector](../assets/images/FV/1.png)
 
 [rak-7249]: https://www.rakwireless.com/en-us/products/lpwan-gateways-and-concentrators/rak7249
 [datasheet-rak7249]: https://docs.rakwireless.com/Product-Categories/WisGate/RAK7249/Datasheet/
